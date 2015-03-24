@@ -13,3 +13,8 @@ G:\PersonalProject\Fundmental\CSharp坦克轰炸\基础知识轰炸\obj\Debug\�
 G:\PersonalProject\Fundmental\CSharp坦克轰炸\基础知识轰炸\bin\Debug\基础知识轰炸.exe
 G:\PersonalProject\Fundmental\CSharp坦克轰炸\基础知识轰炸\bin\Debug\基础知识轰炸.pdb
 G:\PersonalProject\Fundmental\CSharp坦克轰炸\基础知识轰炸\obj\Debug\基础知识轰炸.csprojResolveAssemblyReference.cache
+H:\C#坦克轰炸\Fundmental\CSharp坦克轰炸\基础知识轰炸\obj\Debug\基础知识轰炸.exe
+H:\C#坦克轰炸\Fundmental\CSharp坦克轰炸\基础知识轰炸\obj\Debug\基础知识轰炸.pdb
+H:\C#坦克轰炸\Fundmental\CSharp坦克轰炸\基础知识轰炸\bin\Debug\基础知识轰炸.exe
+H:\C#坦克轰炸\Fundmental\CSharp坦克轰炸\基础知识轰炸\bin\Debug\基础知识轰炸.pdb
+H:\C#坦克轰炸\Fundmental\CSharp坦克轰炸\基础知识轰炸\obj\Debug\基础知识轰炸.csprojResolveAssemblyReference.cache
