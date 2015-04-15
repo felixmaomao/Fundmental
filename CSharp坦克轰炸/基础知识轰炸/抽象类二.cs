@@ -22,9 +22,9 @@ namespace 基础知识轰炸
         void Execute();
     }
 
-    public abstract class ControllerBase:IController
+    public abstract class ControllerBase : IController
     {
-        //可以选择性的宠幸这整个方法，而不按照所期望的分步骤
+        //可以选择性的重写这整个方法，而不按照所期望的分步骤
         //这边把一个方法拆分为二的思想可以借鉴
         public virtual void Execute()
         {
@@ -48,6 +48,6 @@ namespace 基础知识轰炸
     }
     public class HomeController : Controller
     {
-       
+
     }
 }
