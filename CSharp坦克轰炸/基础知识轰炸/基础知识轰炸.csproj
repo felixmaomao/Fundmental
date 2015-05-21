@@ -46,6 +46,7 @@
     <Compile Include="Using符号小测试.cs" />
     <Compile Include="不使用泛型的尖括号.cs" />
     <Compile Include="值类型也是object吗小测试.cs" />
+    <Compile Include="关于ILookUp和IGroup的小测试.cs" />
     <Compile Include="反射.cs" />
     <Compile Include="如何不使用泛型的尖括号.cs" />
     <Compile Include="委托一.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="引用类型小测试.cs" />
     <Compile Include="抽象类.cs" />
     <Compile Include="抽象类二.cs" />
+    <Compile Include="模拟一下二级字典的写法.cs" />
     <Compile Include="泛型一.cs" />
     <Compile Include="泛型性能测试.cs" />
     <Compile Include="泛型接口.cs" />
