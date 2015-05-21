@@ -50,6 +50,7 @@
     <Compile Include="反射.cs" />
     <Compile Include="如何不使用泛型的尖括号.cs" />
     <Compile Include="委托一.cs" />
+    <Compile Include="字典以及序列化等常用.cs" />
     <Compile Include="工厂模式.cs" />
     <Compile Include="引用类型小测试.cs" />
     <Compile Include="抽象类.cs" />
