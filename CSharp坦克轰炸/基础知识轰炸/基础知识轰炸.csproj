@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activator相关.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Using符号小测试.cs" />
     <Compile Include="不使用泛型的尖括号.cs" />
