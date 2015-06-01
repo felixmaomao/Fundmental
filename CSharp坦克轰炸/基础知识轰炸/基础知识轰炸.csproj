@@ -49,10 +49,14 @@
     <Compile Include="值类型也是object吗小测试.cs" />
     <Compile Include="关于ILookUp和IGroup的小测试.cs" />
     <Compile Include="反射.cs" />
+    <Compile Include="反射性能优化.cs" />
     <Compile Include="反射相关.cs" />
+    <Compile Include="反射相关三.cs" />
+    <Compile Include="反射相关二.cs" />
     <Compile Include="如何不使用泛型的尖括号.cs" />
     <Compile Include="委托一.cs" />
     <Compile Include="字典以及序列化等常用.cs" />
+    <Compile Include="小测试.cs" />
     <Compile Include="工厂模式.cs" />
     <Compile Include="引用类型小测试.cs" />
     <Compile Include="抽象类.cs" />
@@ -65,6 +69,7 @@
     <Compile Include="泛型约束二次约束.cs" />
     <Compile Include="泛型约束次级约束.cs" />
     <Compile Include="继承小测试.cs" />
+    <Compile Include="表达式树相关.cs" />
     <Compile Include="面向对象动物世界大战.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
