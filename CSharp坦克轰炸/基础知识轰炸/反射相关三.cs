@@ -31,7 +31,7 @@
 //                method.Invoke(program, objs);
 //            }
 //            watch2.Stop();
-            
+
 //            Console.WriteLine(watch2.Elapsed);
 //            Console.ReadKey();
 //        }

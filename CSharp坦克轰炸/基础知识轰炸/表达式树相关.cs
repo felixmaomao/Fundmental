@@ -15,14 +15,14 @@
 //            Console.WriteLine(demo(5));
 
 //            //直接拼接 expression
-//            ParameterExpression parameter1 = Expression.Parameter(typeof(int),"x");
-//            ConstantExpression constant=Expression.Constant(10);
-//            BinaryExpression muti = Expression.Multiply(parameter1,constant);
-//            Expression<Func<int, int>> haha = Expression.Lambda<Func<int, int>>(muti,parameter1);
+//            ParameterExpression parameter1 = Expression.Parameter(typeof(int), "x");
+//            ConstantExpression constant = Expression.Constant(10);
+//            BinaryExpression muti = Expression.Multiply(parameter1, constant);
+//            Expression<Func<int, int>> haha = Expression.Lambda<Func<int, int>>(muti, parameter1);
 //            Func<int, int> foo = haha.Compile();
 //            Console.WriteLine(foo(6));
 
-           
+
 //            Console.ReadKey();
 //        }
 //    }
