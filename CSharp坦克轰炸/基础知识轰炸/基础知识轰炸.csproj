@@ -63,6 +63,7 @@
     <Compile Include="引用类型小测试.cs" />
     <Compile Include="抽象类.cs" />
     <Compile Include="抽象类二.cs" />
+    <Compile Include="方法调用之表达式树.cs" />
     <Compile Include="模拟一下二级字典的写法.cs" />
     <Compile Include="泛型一.cs" />
     <Compile Include="泛型性能测试.cs" />
@@ -71,7 +72,11 @@
     <Compile Include="泛型约束二次约束.cs" />
     <Compile Include="泛型约束次级约束.cs" />
     <Compile Include="继承小测试.cs" />
+    <Compile Include="缓存相关.cs" />
     <Compile Include="表达式树相关.cs" />
+    <Compile Include="表达式树相关三.cs" />
+    <Compile Include="表达式树相关二.cs" />
+    <Compile Include="让方法自我缓存.cs" />
     <Compile Include="面向对象动物世界大战.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
